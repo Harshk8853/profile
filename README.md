@@ -22,7 +22,7 @@
 
 ---
 
-### ⚡ Cyberpunk Animated Header:
+### ⚡ Cyberpunk Animated Header: "HACKER"
 
 ```bash
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗ ██████╗██╗  ██╗
@@ -37,21 +37,21 @@
 
 ### 📊 GitHub Stats:
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslicecode&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aslicecode&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aslicecode&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=aslicecode&color=red)
 
 ---
 
 ### 🔥 Latest Projects:
 
-- 🛠️ [Cyber Security Toolkit](https://github.com/yourusername/cyber-security-toolkit)
-- 🎭 [AI-Powered Hacking Simulation](https://github.com/yourusername/ai-hacking-sim)
-- 🌐 [Dark Themed Portfolio](https://yourwebsite.com)
+- 🛠️ [Cyber Security Toolkit](https://github.com/aslicecode/cyber-security-toolkit)
+- 🎭 [AI-Powered Hacking Simulation](https://github.com/aslicecode/ai-hacking-sim)
+- 🌐 [Dark Themed Portfolio](https://aslicecode.com)
 
 ---
 
@@ -66,10 +66,10 @@
 
 ### 📬 Connect with Me:
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://aslicecode.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/yourchannel)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://aslicecode.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aslicecode)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/aslicecode)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aslicecode)  
 
 ---
 
