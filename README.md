@@ -1,9 +1,9 @@
 ### Hi there, I'm Harsh! 👋
 
-🚀 Full-Stack Developer | 🎥 VFX Artist | 🎨 UI/UX Designer  
-💻 Passionate about Web Dev, Animation, and Ethical Hacking 🕶️
+🚀 Full-Stack Developer | 🎨 UI/UX Designer | 🕵️ Ethical Hacker  
+💻 Passionate about Web Dev, Cyber Security, and Ethical Hacking 🕶️
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;VFX+Artist;Cyber+Security+Enthusiast;Always+Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cyber+Security+Enthusiast;Always+Learning+New+Things!)
 
 ---
 
@@ -16,27 +16,42 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### ⚡ Cyberpunk Animated Header:
+
+```bash
+██╗  ██╗ █████╗  ██████╗██╗  ██╗ ██████╗██╗  ██╗
+██║  ██║██╔══██╗██╔════╝██║  ██║██╔════╝██║ ██╔╝
+███████║███████║██║     ███████║██║     █████╔╝ 
+██╔══██║██╔══██║██║     ██╔══██║██║     ██╔═██╗ 
+██║  ██║██║  ██║╚██████╗██║  ██║╚██████╗██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
 
 ---
 
 ### 📊 GitHub Stats:
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red)
 
 ---
 
 ### 🔥 Latest Projects:
 
 - 🛠️ [Cyber Security Toolkit](https://github.com/yourusername/cyber-security-toolkit)
-- 🎭 [AI-Powered VFX](https://github.com/yourusername/ai-vfx)
-- 🌐 [Hacker-Themed Portfolio](https://yourwebsite.com)
+- 🎭 [AI-Powered Hacking Simulation](https://github.com/yourusername/ai-hacking-sim)
+- 🌐 [Dark Themed Portfolio](https://yourwebsite.com)
 
 ---
 
